@@ -14,6 +14,7 @@ _Get started using GitHub in less than an hour._
 </header>
 
 - Remote change
+- Rebased change
 
 <!--
   <<< Author notes: Finish >>>
